@@ -5,3 +5,4 @@ A web/text scraping project at Hertie
 Group members:
   Jose and
   Koen yoyoyoyo
+mkl,;
