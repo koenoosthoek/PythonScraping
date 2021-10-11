@@ -1,5 +1,7 @@
 # Introduction to Twitter Scraping with Tweepy
 
+# use this script to experiment!
+
 # Note: 
 ### these lines are ToDos!  
 
